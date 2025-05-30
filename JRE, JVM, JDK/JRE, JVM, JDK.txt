@@ -1,0 +1,13 @@
+Phân biệt JVM, JRE, JDK? 
+
+JVM (Java Virtual Machine) là tạo ra môi trường máy ảo để thực thi mã java bytecode. 
+
+JRE viết tắt Java Runtime Enviromement. Nó bao gồm các thư viện và các file mà JVM sử dụng lúc thực thi. 
+
+JDK viết tắt của Java Development Kit. Nó gồm JRE + công cụ phát triển. 
+
+ 
+
+ 
+
+ 
