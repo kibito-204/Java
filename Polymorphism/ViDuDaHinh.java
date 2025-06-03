@@ -6,7 +6,6 @@ public class ViDuDaHinh {
         Xe xeHoi = new XeHoi("Toyota Camry", 200);
         Xe xeMay = new XeMay("Honda Wave", 120);
         Xe xeDap = new XeDap("Xe đạp Martin", 25);
-
         // Danh sách các xe để thể hiện đa hình
         Xe[] danhSachXe = {xeHoi, xeMay, xeDap};
 
